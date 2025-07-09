@@ -42,9 +42,9 @@ and view live weather data with icons and extended details like humidity, wind s
 
 ## File Structure
 weather_app/
-weather_app.py       # Main application code
-style.qss            # QSS stylesheet for UI styling
-README.md            # Project documentation
+- weather_app.py       # Main application code
+- style.qss            # QSS stylesheet for UI styling
+- README.md            # Project documentation
 
 ---
 
